@@ -39,6 +39,11 @@ _A dynamic shopping platform with advanced search, effortless browsing, smooth c
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/pranjal_patil/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/pranjalp08c1/)
 
+
+---
+
+📈 _Happy Coding!_ ✨
+
 <!---
 pranjalpatil22/pranjalpatil22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
