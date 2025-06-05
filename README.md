@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-🎓 B.Tech Computer Engineering student at CHARUSAT UNIVERSTIY (CGPA: 9.16/10)    
+🎓 B.Tech Computer Engineering student at CHARUSAT UNIVERSTIY (CGPA: 9.22/10)    
 🧠 Actively exploring Machine Learning and Data Structures & Algorithms    
 🚀 Currently building a Placement Cell Management System to streamline campus recruitment    
 🌱 I’m driven by the desire to learn, innovate, and grow every day.    
