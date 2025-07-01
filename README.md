@@ -32,6 +32,12 @@ _A lightweight backend service that simulates an AI-powered data query system_
 _A dynamic shopping platform with advanced search, effortless browsing, smooth checkout, wishlist/cart features, and a built-in blog for customer engagement_  
 **Tech:** Django, SQLite, HTML, CSS, Bootstrap, basic JavaScript.
 
+## 🧮 My LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/pranjal_patil)
+
+
+
 
 ## 🌐 Connect with Me
 
